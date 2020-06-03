@@ -1,0 +1,21 @@
+The program will require that you
+
+1. Read in a review
+
+2. Assign each word in the review the score attributed to the review
+
+3. Enter a WordEntry object (consisting of the word, total score, and number of occurrences) into a hash table. If word already exists in the hash table, update the score and number of occurrences to the record
+
+4. Repeat Step 1 until all data is entered
+
+
+Example output:
+  enter a review -- Press return to exit:
+  A weak script that ends with a quick and boring finale
+  The review has an average value of 1.79035
+  Somewhat Negative Sentiment
+
+  enter a review -- Press return to exit: 
+  Loved every minute of it
+  The review has an average value of 2.39208
+  Somewhat Positive Sentiment
